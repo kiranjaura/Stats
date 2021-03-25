@@ -13,7 +13,7 @@ a. If the ER graph is disconnected, then the entities are not related and are in
 2)
  ![image](https://user-images.githubusercontent.com/55324758/112534841-97aa1f00-8d79-11eb-87a9-ff4647e9edc8.png)
  
-3) We have weak entity sets because they avoid inconsistencies caused by duplicating hte key of the strong entity, they reflect the logical structure of an entity being dependent on anotehr entity (the identifyiing relationship), and they can be deleted along with their corresponding strong entity set.
+3) We have weak entity sets because they avoid inconsistencies caused by duplicating hte key of the strong entity, they reflect the logical structure of an entity being dependent on anotehr entity (the identifyiing relationship), and they can be deleted along with their corresponding strong entity set.<br>
 4) a.i:
     <br>
     select e.ID, e.person_name
